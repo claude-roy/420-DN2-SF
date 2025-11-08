@@ -39,7 +39,7 @@ Cet exercice a pour objectifs:
 
 - Cliquez sur votre avatar à droite et choisir *Repositories*.  
 - Cliquez sur new à droite : ![New](../images/NewGithub.png)  
-- Donnez le nom test_420DN2 à votre dépôt et cliquer *Create repositery*.  
+- Donnez le nom **test_420DN2** à votre dépôt et cliquer *Create repositery*.  
 - Dans la page de votre nouveau dépôt, choisir SSH comme méthode de transfert.  
 
 ![Github transfert ssh](../images/TransfertSSH_Github.png)  
