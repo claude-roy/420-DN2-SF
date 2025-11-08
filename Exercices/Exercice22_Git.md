@@ -84,8 +84,6 @@ Source : Pro Git
 
 </details>
 
---
-
 - Récupérer votre fork de mon dépôt par la commande ```git clone nom_de_votre_copie``` sur votre poste de travail.
 - Modifier le fichier README.md en y ajoutant votre nom dans la liste des contributeurs.
 - Pousser votre modification sur votre dépôt sur Git Hub avec la commande <code>git push</code>. Si vous avez bien inséré votre clé SSH sur GitHub, vous ne devriez pas avoir besoin de vous authentifier.
