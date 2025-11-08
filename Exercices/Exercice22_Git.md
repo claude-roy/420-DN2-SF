@@ -20,12 +20,12 @@ Cet exercice a pour objectifs:
 - Si ce n'est pas encore fait, créer un compte.  
 - Cliquer sur votre avatar à droite et choisir *Settings*.  
 
-![Github settings](../images/github_settings.jpg)  
+![Github settings](../images/github_settings.png)  
 **Image 1 : Github settings**
 
 - Dans le menu de gauche, cliquer sur *SSH and GPG keys*.  
 
-![Github ssh keys](../images/github_sshKeys.jpg)  
+![Github ssh keys](../images/github_sshKeys.png)  
 **Image 2 : Github ssh keys**
 
 - Cliquez sur *New SSH key*.  
