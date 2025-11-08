@@ -37,9 +37,9 @@ Cet exercice a pour objectifs:
 
 ## Section 2 Créer un dépôt Github  
 
-- Cliquez sur votre avatar à droite et choisir *Repositories*.  
+- Cliquer sur votre avatar à droite et choisir *Repositories*.  
 - Cliquez sur new à droite : ![New](../images/NewGithub.png)  
-- Donnez le nom **test_420DN2** à votre dépôt et cliquer *Create repositery*.  
+- Donnez le nom **test_420DN2** à votre dépôt et cliquez *Create repositery*.  
 - Dans la page de votre nouveau dépôt, choisir SSH comme méthode de transfert.  
 
 ![Github transfert ssh](../images/TransfertSSH_Github.png)  
@@ -51,7 +51,7 @@ Cet exercice a pour objectifs:
 mkdir -p ~/Documents/test_420DN2
 ```  
 
--  Déplacez-vous dans le nouveau répertoire et faire les commandes git pour vous connectez à votre compte Github.  
+-  Déplacez-vous dans le nouveau répertoire et faire les commandes git pour vous connecter à votre compte Github.  
 
 ```bash
 git config --global user.email "vous@exemple.com"
@@ -86,7 +86,7 @@ Source : Pro Git
 
 - Récupérer votre fork de mon dépôt par la commande ```git clone nom_de_votre_copie``` sur votre poste de travail (n'oubliez pas d'utiliser ssh comme méthode de transfert).
 - Modifier le fichier README.md en y ajoutant votre nom dans la liste des contributeurs.
-- Fair un *commit* et pousser votre modification sur votre dépôt sur Git Hub avec la commande <code>git push</code>. Si vous avez bien inséré votre clé SSH sur GitHub, vous ne devriez pas avoir besoin de vous authentifier.
+- Faire un *commit* et pousser votre modification sur votre dépôt sur Git Hub avec la commande <code>git push</code>. Si vous avez bien inséré votre clé SSH sur GitHub, vous ne devriez pas avoir besoin de vous authentifier.
 - Sur votre page de GitHub, faites une demande de *Pull Request* pour que j'accepte de modifier le dépôt principal de votre contribution. Soyez gentil, écrivez un message avec votre demande.  Sinon, peut-être que je n’accepterais pas votre demande.;-)
 
 Pour vous aider : [https://git-scm.com/book/fr/v2/GitHub-Contribution-%C3%A0-un-projet](https://git-scm.com/book/fr/v2/GitHub-Contribution-%C3%A0-un-projet)  
