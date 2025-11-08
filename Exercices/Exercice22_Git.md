@@ -84,10 +84,10 @@ Source : Pro Git
 
 </details>
 
-- Récupérer votre fork de mon dépôt par la commande ```git clone nom_de_votre_copie``` sur votre poste de travail.
+- Récupérer votre fork de mon dépôt par la commande ```git clone nom_de_votre_copie``` sur votre poste de travail (n'oubliez pas d'utiliser ssh comme méthode de transfert).
 - Modifier le fichier README.md en y ajoutant votre nom dans la liste des contributeurs.
-- Pousser votre modification sur votre dépôt sur Git Hub avec la commande <code>git push</code>. Si vous avez bien inséré votre clé SSH sur GitHub, vous ne devriez pas avoir besoin de vous authentifier.
-- Sur votre page de GitHub, faites une demande de Pull Request pour que j'accepte de modifier le dépôt principal de votre contribution. Soyez gentil, écrivez un message avec votre demande.  Sinon, peut-être que je n’accepterais pas votre demande.;-)
+- Fair un *commit* et pousser votre modification sur votre dépôt sur Git Hub avec la commande <code>git push</code>. Si vous avez bien inséré votre clé SSH sur GitHub, vous ne devriez pas avoir besoin de vous authentifier.
+- Sur votre page de GitHub, faites une demande de *Pull Request* pour que j'accepte de modifier le dépôt principal de votre contribution. Soyez gentil, écrivez un message avec votre demande.  Sinon, peut-être que je n’accepterais pas votre demande.;-)
 
 Pour vous aider : [https://git-scm.com/book/fr/v2/GitHub-Contribution-%C3%A0-un-projet](https://git-scm.com/book/fr/v2/GitHub-Contribution-%C3%A0-un-projet)  
 
